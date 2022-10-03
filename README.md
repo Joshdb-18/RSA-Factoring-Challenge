@@ -88,12 +88,11 @@ The following table gives an overview over all RSA numbers. Note that the RSA Fa
 |[RSA-617](https://en.wikipedia.org/wiki/RSA-617)| 617 | 2048 |	--- 	| --- |	--- |
 |[RSA-2048](https://en.wikipedia.org/wiki/RSA-2048)| 617 | 2048 | US$200,000 | --- | --- |		
 
-```diff
-! RSA-129 was not part of the RSA Factoring Challenge, but was related to a column by Matrin Gardner in [Scientific American](https://en.wikipedia.org/wiki/Scientific_American).
-! The number was factored after the challenge ended.
-! RSA-170 was also independently factored by S.A Danilov and I.A Popovyan two days later.                            
-! The challenge ended before the prize was awarded
-```
+
+- RSA-129 was not part of the RSA Factoring Challenge, but was related to a column by Matrin Gardner in [Scientific American](https://en.wikipedia.org/wiki/Scientific_American).
+- The number was factored after the challenge ended.
+- RSA-170 was also independently factored by S.A Danilov and I.A Popovyan two days later.                            
+- The challenge ended before the prize was awarded
 
 ## See also
 - [RSA numbers](https://en.wikipedia.org/wiki/RSA_numbers), decimal expansions of the numbers and known factorizations
