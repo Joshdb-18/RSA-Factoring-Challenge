@@ -45,7 +45,49 @@ The following table gives an overview over all RSA numbers. Note that the RSA Fa
 |[RSA-170](https://en.wikipedia.org/wiki/RSA-170)| 170 | 563 |  ---     | December 29, 2009 | D. Bonenberger and M. Krone|
 |[RSA-576](https://en.wikipedia.org/wiki/RSA-576)| 174 | 576 | US$10,000 | December 3, 2003 |[Jens Franke](https://en.wikipedia.org/wiki/Jens_Franke)., [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn)| 
 |[RSA-180](https://en.wikipedia.org/wiki/RSA-180)| 180 | 596 |  ---     | May 8, 2010 | S.A Danilov and I.A Popovyan, [Mosco State University](https://en.wikipedia.org/wiki/Moscow_State_University)|
- 
+|[RSA-190](https://en.wikipedia.org/wiki/RSA-190)| 190 | 629 |  ---	|November 8, 2010 | A. Timofeev and I. A. Popovyan|
+|[RSA-640](https://en.wikipedia.org/wiki/RSA-640)| 193 | 640 | US$20,000 | November 2, 2005 | Jens Franke et al., University of Bonn|
+|[RSA-200](https://en.wikipedia.org/wiki/RSA-200)| 200 | 663 |  ---     | May 9, 2005 | Jens Franke et al., University of Bonn|
+|[RSA-210](https://en.wikipedia.org/wiki/RSA-210)| 210 | 696 |  ---     | September 26, 2013 | Ryan Propper|
+|[RSA-704](https://en.wikipedia.org/wiki/RSA-704)| 212 | 704 | US$30,000	July 2, 2012	Shi Bai, Emmanuel Thomé and Paul Zimmermann|
+|[RSA-220](https://en.wikipedia.org/wiki/RSA-220)| 220 | 729 |  ---     | May 13, 2016	S. Bai, P. Gaudry, A. Kruppa, E. Thomé and P. Zimmermann|
+|[RSA-230](https://en.wikipedia.org/wiki/RSA-230)| 230 | 762 |  ---     | August 15, 2018	Samuel S. Gross, Noblis, Inc.|
+|[RSA-232](https://en.wikipedia.org/wiki/RSA-232)| 232 | 768 |  ---     | February 17, 2020[13]	N. L. Zamarashkin, D. A. Zheltkov and S. A. Matveev.|
+|[RSA-768](https://en.wikipedia.org/wiki/RSA-768)| 232 | 768 | US$50,000	December 12, 2009	Thorsten Kleinjung et al.[14]|
+|[RSA-240](https://en.wikipedia.org/wiki/RSA-240)| 240 | 795 |  ---     |Dec 2, 2019[15]	F. Boudot, P. Gaudry, A. Guillevic, N. Heninger, E. Thomé and P. Zimmermann|
+|[RSA-250](https://en.wikipedia.org/wiki/RSA-250)| 250 | 829 |  ---     | Feb 28, 2020[16]	F. Boudot, P. Gaudry, A. Guillevic, N. Heninger, E. Thomé and P. Zimmermann|
+|[RSA-260](https://en.wikipedia.org/wiki/RSA-260)| 260 | 862 |  ---     | --- |	
+|[RSA-270](https://en.wikipedia.org/wiki/RSA-270)| --- | --- | ---      | --- |
+|[RSA-896](https://en.wikipedia.org/wiki/RSA-896)| 270 | 896 | US$75,000 | ---|
+|[RSA-280](https://en.wikipedia.org/wiki/RSA-280)| 280 | 928 |	---     | --- |
+|[RSA-290](https://en.wikipedia.org/wiki/RSA-290)| 290 | 962 |	---     | --- |	
+|[RSA-300](https://en.wikipedia.org/wiki/RSA-300)| 300 | 995 |	---     | --- |	
+|[RSA-309](https://en.wikipedia.org/wiki/RSA-309)| 309 | 1024 |	---     | --- |	
+|[RSA-1024](https://en.wikipedia.org/wiki/RSA-1024)| 309 | 1024 | US$100,000 | --- |		
+|[RSA-310](https://en.wikipedia.org/wiki/RSA-310)| 310 | 1028 |	---     | --- |
+|[RSA-320](https://en.wikipedia.org/wiki/RSA-320)| 320 | 1061 | ---	| --- |	
+|[RSA-330](https://en.wikipedia.org/wiki/RSA-330)| 330 | 1094 |	--- 	| --- |	
+|[RSA-340](https://en.wikipedia.org/wiki/RSA-340)| 340 | 1128 |	---	| --- |	
+|[RSA-350](https://en.wikipedia.org/wiki/RSA-350)| 350 | 1161 |	--- 	| --- |	
+|[RSA-360](https://en.wikipedia.org/wiki/RSA-360)| 360 | 1194 |	--- 	| --- |	
+|[RSA-370](https://en.wikipedia.org/wiki/RSA-370)| 370 | 1227 |	--- 	| --- |	
+|[RSA-380](https://en.wikipedia.org/wiki/RSA-380)| 380 | 1261 |	--- 	| --- |	
+|[RSA-390](https://en.wikipedia.org/wiki/RSA-390)| 390 | 1294 |	--- 	| --- |	
+|[RSA-400](https://en.wikipedia.org/wiki/RSA-400)| 400 | 1327 |	--- 	| --- |	
+|[RSA-410](https://en.wikipedia.org/wiki/RSA-410)| 410 | 1360 |	--- 	| --- |	
+|[RSA-420](https://en.wikipedia.org/wiki/RSA-420)| 420 | 1393 |	--- 	| --- |	
+|[RSA-430](https://en.wikipedia.org/wiki/RSA-430)| 430 | 1427 |	--- 	| --- |	
+|[RSA-440](https://en.wikipedia.org/wiki/RSA-440)| 440 | 1460 |	--- 	| --- |	
+|[RSA-450](https://en.wikipedia.org/wiki/RSA-450)| 450 | 1493 |	--- 	| --- |	
+|[RSA-460](https://en.wikipedia.org/wiki/RSA-460)| 460 | 1526 |	--- 	| --- |	
+|[RSA-1536](https://en.wikipedia.org/wiki/RSA-1536)| 463 | 1536 | US$150,000 |--- |		
+|[RSA-470](https://en.wikipedia.org/wiki/RSA-470)| 470 | 1559 |	---	| --- |
+|[RSA-480](https://en.wikipedia.org/wiki/RSA-480)| 480 | 1593 |	--- 	| --- |	
+|[RSA-490](https://en.wikipedia.org/wiki/RSA-490)| 490 | 1626 |	--- 	| --- |	
+|[RSA-500](https://en.wikipedia.org/wiki/RSA-500)| 500 | 1659 |	--- 	| --- |	
+|[RSA-617](https://en.wikipedia.org/wiki/RSA-617)| 617 | 2048 |	--- 	| --- |	
+|[RSA-2048](https://en.wikipedia.org/wiki/RSA-2048)| 617 | 2048 | US$200,000 | --- |		
+                            
 ## See also
 ## Background Context
 
