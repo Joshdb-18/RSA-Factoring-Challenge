@@ -87,8 +87,21 @@ The following table gives an overview over all RSA numbers. Note that the RSA Fa
 |[RSA-500](https://en.wikipedia.org/wiki/RSA-500)| 500 | 1659 |	--- 	| --- |	--- |
 |[RSA-617](https://en.wikipedia.org/wiki/RSA-617)| 617 | 2048 |	--- 	| --- |	--- |
 |[RSA-2048](https://en.wikipedia.org/wiki/RSA-2048)| 617 | 2048 | US$200,000 | --- | --- |		
-                            
+
+```diff
+! RSA-129 was not part of the RSA Factoring Challenge, but was related to a column by Matrin Gardner in [Scientific American](https://en.wikipedia.org/wiki/Scientific_American).
+! The number was factored after the challenge ended.
+! RSA-170 was also independently factored by S.A Danilov and I.A Popovyan two days later.                            
+! The challenge ended before the prize was awarded
+```
+
 ## See also
+- [RSA numbers](https://en.wikipedia.org/wiki/RSA_numbers), decimal expansions of the numbers and known factorizations
+- [LCS35](https://en.wikipedia.org/wiki/LCS35)
+- [The Magic Words are Squeamish Ossifrage](https://en.wikipedia.org/wiki/The_Magic_Words_are_Squeamish_Ossifrage), the solution found in 1993 to another RSA challenge posed in 1977
+- [RSA Secret-Key Challenge](https://en.wikipedia.org/wiki/RSA_Secret-Key_Challenge)
+- [Integer factorization records](https://en.wikipedia.org/wiki/Integer_factorization_records)
+
 ## Background Context
 
 We have sniffed an unsecured network and found numbers that are used to encrypt very important documents. It seems that those numbers are not always generated using large enough prime numbers. Your mission should you choose to accept it, is to factorize these numbers as fast as possible before the target fixes this bug on their server - so that we can decode the encrypted documents.
