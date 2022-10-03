@@ -49,13 +49,13 @@ The following table gives an overview over all RSA numbers. Note that the RSA Fa
 |[RSA-640](https://en.wikipedia.org/wiki/RSA-640)| 193 | 640 | US$20,000 | November 2, 2005 | Jens Franke et al., University of Bonn|
 |[RSA-200](https://en.wikipedia.org/wiki/RSA-200)| 200 | 663 |  ---     | May 9, 2005 | Jens Franke et al., University of Bonn|
 |[RSA-210](https://en.wikipedia.org/wiki/RSA-210)| 210 | 696 |  ---     | September 26, 2013 | Ryan Propper|
-|[RSA-704](https://en.wikipedia.org/wiki/RSA-704)| 212 | 704 | US$30,000	July 2, 2012	Shi Bai, Emmanuel Thomé and Paul Zimmermann|
-|[RSA-220](https://en.wikipedia.org/wiki/RSA-220)| 220 | 729 |  ---     | May 13, 2016	S. Bai, P. Gaudry, A. Kruppa, E. Thomé and P. Zimmermann|
-|[RSA-230](https://en.wikipedia.org/wiki/RSA-230)| 230 | 762 |  ---     | August 15, 2018	Samuel S. Gross, Noblis, Inc.|
-|[RSA-232](https://en.wikipedia.org/wiki/RSA-232)| 232 | 768 |  ---     | February 17, 2020[13]	N. L. Zamarashkin, D. A. Zheltkov and S. A. Matveev.|
-|[RSA-768](https://en.wikipedia.org/wiki/RSA-768)| 232 | 768 | US$50,000	December 12, 2009	Thorsten Kleinjung et al.[14]|
-|[RSA-240](https://en.wikipedia.org/wiki/RSA-240)| 240 | 795 |  ---     |Dec 2, 2019[15]	F. Boudot, P. Gaudry, A. Guillevic, N. Heninger, E. Thomé and P. Zimmermann|
-|[RSA-250](https://en.wikipedia.org/wiki/RSA-250)| 250 | 829 |  ---     | Feb 28, 2020[16]	F. Boudot, P. Gaudry, A. Guillevic, N. Heninger, E. Thomé and P. Zimmermann|
+|[RSA-704](https://en.wikipedia.org/wiki/RSA-704)| 212 | 704 | US$30,000 | July 2, 2012| Shi Bai, Emmanuel Thomé and Paul Zimmermann|
+|[RSA-220](https://en.wikipedia.org/wiki/RSA-220)| 220 | 729 |  ---     | May 13, 2016 | S. Bai, P. Gaudry, A. Kruppa, E. Thomé and P. Zimmermann|
+|[RSA-230](https://en.wikipedia.org/wiki/RSA-230)| 230 | 762 |  ---     | August 15, 2018 | Samuel S. Gross, Noblis, Inc.|
+|[RSA-232](https://en.wikipedia.org/wiki/RSA-232)| 232 | 768 |  ---     | February 17, 2020 | N. L. Zamarashkin, D. A. Zheltkov and S. A. Matveev.|
+|[RSA-768](https://en.wikipedia.org/wiki/RSA-768)| 232 | 768 | US$50,000 | December 12, 2009 | Thorsten Kleinjung|
+|[RSA-240](https://en.wikipedia.org/wiki/RSA-240)| 240 | 795 |  ---     |Dec 2, 2019 | F. Boudot, P. Gaudry, A. Guillevic, N. Heninger, E. Thomé and P. Zimmermann|
+|[RSA-250](https://en.wikipedia.org/wiki/RSA-250)| 250 | 829 |  ---     | Feb 28, 2020 | F. Boudot, P. Gaudry, A. Guillevic, N. Heninger, E. Thomé and P. Zimmermann|
 |[RSA-260](https://en.wikipedia.org/wiki/RSA-260)| 260 | 862 |  ---     | --- |	
 |[RSA-270](https://en.wikipedia.org/wiki/RSA-270)| --- | --- | ---      | --- |
 |[RSA-896](https://en.wikipedia.org/wiki/RSA-896)| 270 | 896 | US$75,000 | ---|
