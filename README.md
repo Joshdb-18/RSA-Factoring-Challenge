@@ -11,15 +11,15 @@ We have sniffed an unsecured network and found numbers that are used to encrypt 
 
 ## Requirements
 ### General
-```
+
 - You can choose the language of your choice
 - OS needs to be Standard Ubuntu 20.04 LTS/
-```
+
 ## Tasks
 ### 0. Factorize all the things
 Factorize as many numbers as possible into a product of two smaller numbers
 
-	- Usage: ``factors <file>``
+	-Usage: ``factors <file>``
 		- where ``<file>`` is a file containing natural numbers to factor
 		- One number per line
 		- You can assume that all lines will be valid natural numbers greater than 1
