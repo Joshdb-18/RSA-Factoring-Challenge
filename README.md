@@ -15,9 +15,9 @@ The RSA numbers were generated on a computer with no network connection of any k
 The first RSA numbers generated, RSA-100 to RSA-500 and RSA-617, were labeled according to their number of [decimal](https://en.wikipedia.org/wiki/Decimal) digits; the other RSA numbers (beginning with RSA-576) were generated later and labelled according to their number of [binary](https://en.wikipedia.org/wiki/Binary_numeral_system) digits. The numbers in the table below are listed in increasing order despite this shift from decimal to binary.
 
 ### Content:
-1. [The mathematics]()
-2. [The prizes and records]()
-3. [See also]()
+1. [The mathematics](https://github.com/Joshdb-18/RSA-Factoring-Challenge#the-mathematics)
+2. [The prizes and records](https://github.com/Joshdb-18/RSA-Factoring-Challenge#the-prizes-and-records)
+3. [See also](https://github.com/Joshdb-18/RSA-Factoring-Challenge#see-also)
 
 ## The mathematics
 RSA Laboratories states that: for each RSA number n, there exists prime numbers p and q such that:
