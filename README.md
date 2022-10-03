@@ -1,3 +1,8 @@
+# About
+## RSA Factoring Challenge
+From [Wikipedia](https://en.wikipedia.org/wiki/RSA_Factoring_Challenge)
+
+The ``RSA Factoring Challenge`` was a challenge put forward by [RSA Laboratories](https://en.wikipedia.org/wiki/RSA_Laboratories) on March 18, 1991 to encourage research into [computational number theory](https://en.wikipedia.org/wiki/Computational_number_theory) and the practical difficulty of [factoring](https://en.wikipedia.org/wiki/Factorization) large [integers](https://en.wikipedia.org/wiki/Integer) and cracking [RSA](https://en.wikipedia.org/wiki/RSA_(algorithm)) keys used in [cryptography](https://en.wikipedia.org/wiki/Cryptography).
 ## Background Context
 
 We have sniffed an unsecured network and found numbers that are used to encrypt very important documents. It seems that those numbers are not always generated using large enough prime numbers. Your mission should you choose to accept it, is to factorize these numbers as fast as possible before the target fixes this bug on their server - so that we can decode the encrypted documents.
