@@ -44,7 +44,7 @@ The following table gives an overview over all RSA numbers. Note that the RSA Fa
 |[RSA-160](https://en.wikipedia.org/wiki/RSA-160 | 160 | 530 |	---     | April 1, 2003 | [Jens Franke](https://en.wikipedia.org/wiki/Jens_Franke)., [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn)|
 |[RSA-170](https://en.wikipedia.org/wiki/RSA-170 | 170 | 563 |  ---     | December 29, 2009 | D. Bonenberger and M. Krone|
 ```diff
-|- [RSA-576](https://en.wikipedia.org/wiki/RSA-576 | 174 |576 | US$10,000 | December 3, 2003 |[Jens Franke](https://en.wikipedia.org/wiki/Jens_Franke)., [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn)|
+|! [RSA-576](https://en.wikipedia.org/wiki/RSA-576 | 174 |576 | US$10,000 | December 3, 2003 |[Jens Franke](https://en.wikipedia.org/wiki/Jens_Franke)., [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn)|
 ``` 
 ## See also
 ## Background Context
