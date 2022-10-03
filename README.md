@@ -33,7 +33,19 @@ The following table gives an overview over all RSA numbers. Note that the RSA Fa
 
 | RSA number | Decimal digits | Binary digits | Cash prize offered | Factored on | Factored by |
 | --- | --- | --- | --- | --- | --- |
-|[RSA-100](https://en.wikipedia.org/wiki/RSA-100)| 100 | 330 | US$1,000 | April, 1 1991 | [Arjen K. Lenstra](https://en.wikipedia.org/wiki/Arjen_K._Lenstra)
+|[RSA-100](https://en.wikipedia.org/wiki/RSA-100)| 100 | 330 | US$1,000 | April, 1 1991 | [Arjen K. Lenstra](https://en.wikipedia.org/wiki/Arjen_K._Lenstra)|
+|[RSA-110](https://en.wikipedia.org/wiki/RSA-110)| 110 | 364 | US$2,429 | April 14, 1992 | [Arjen K. Lenstra](https://en.wikipedia.org/wiki/Arjen_K._Lenstra) and M.S. Manasse |
+|[RSA-120](https://en.wikipedia.org/wiki/RSA-120)| 120 | 397 | US$5,898 | July 9, 1993 | T. Denny |
+|[RSA-129](https://en.wikipedia.org/wiki/RSA-129)| 129 | 426 | US$100 | April 26, 1994 | [Arjen K. Lenstra](https://en.wikipedia.org/wiki/Arjen_K._Lenstra)|
+|[RSA-130](https://en.wikipedia.org/wiki/RSA-130)| 130 | 430 | US$14,527 | April 10, 1996 | [Arjen K. Lenstr](https://en.wikipedia.org/wiki/Arjen_K._Lenstra)|
+|[RSA-140](https://en.wikipedia.org/wiki/RSA-140)| 140 | 463 | US$17,226 | February 2, 1999 | [Herman te Riele](https://en.wikipedia.org/wiki/Herman_te_Riele)|
+|[RSA-150](https://en.wikipedia.org/wiki/RSA-150)| 150 | 496 |	---     | April 16, 2004 | [Kazumaro Aoki](https://en.wikipedia.org/wiki/Kazumaro_Aoki)|
+|[RSA-155](https://en.wikipedia.org/wiki/RSA-155)| 155 | 512 | US$9,383 | August 22, 1999 | [Herman te Riele](https://en.wikipedia.org/wiki/Herman_te_Riele)|
+|[RSA-160](https://en.wikipedia.org/wiki/RSA-160 | 160 | 530 |	---     | April 1, 2003 | [Jens Franke](https://en.wikipedia.org/wiki/Jens_Franke)., [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn)|
+|[RSA-170](https://en.wikipedia.org/wiki/RSA-170 | 170 | 563 |  ---     | December 29, 2009 | D. Bonenberger and M. Krone|
+```diff
+|- [RSA-576](https://en.wikipedia.org/wiki/RSA-576 | 174 |576 | US$10,000 | December 3, 2003 |[Jens Franke](https://en.wikipedia.org/wiki/Jens_Franke)., [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn)|
+ 
 ## See also
 ## Background Context
 
