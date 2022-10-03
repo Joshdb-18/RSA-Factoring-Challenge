@@ -29,7 +29,7 @@ The problem is to find these two primes, given only n
 ## The prizes and records
 The following table gives an overview over all RSA numbers. Note that the RSA Factoring Challenge ended in 2007 and no further prizes will be awarded for factoring the higher numbers.
 
-	- The challenge numbers in black/white lines are part of the original challenge and are expressed in [base 10](https://en.wikipedia.org/wiki/Base_10), while the challenge numbers in yellow lines are part of the 2001 expansion and are expressed in [base 2](https://en.wikipedia.org/wiki/Base_2)
+- The challenge numbers in black/white lines are part of the original challenge and are expressed in [base 10](https://en.wikipedia.org/wiki/Base_10), while the challenge numbers in yellow lines are part of the 2001 expansion and are expressed in [base 2](https://en.wikipedia.org/wiki/Base_2)
 ## See also
 ## Background Context
 
