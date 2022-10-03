@@ -29,7 +29,7 @@ The problem is to find these two primes, given only n
 ## The prizes and records
 The following table gives an overview over all RSA numbers. Note that the RSA Factoring Challenge ended in 2007 and no further prizes will be awarded for factoring the higher numbers.
 
-- All the challenge numbers are part of the original challenge and are expressed in [base 10](https://en.wikipedia.org/wiki/Base_10), while the other challenge numbers``(RSA-576, RSA-640, RSA-704, RSA-768, RSA-896, RSA-1024, RSA-1536, RSA-2048)`` are part of the 2001 expansion and are expressed in [base 2](https://en.wikipedia.org/wiki/Base_2)
+- All the challenge numbers are part of the original challenge and are expressed in [base 10](https://en.wikipedia.org/wiki/Base_10), while the other challenge numbers``(RSA-576, RSA-640, RSA-704, RSA-768, RSA-896, RSA-1024, RSA-1536 and RSA-2048)`` are part of the 2001 expansion and are expressed in [base 2](https://en.wikipedia.org/wiki/Base_2)
 
 | RSA number | Decimal digits | Binary digits | Cash prize offered | Factored on | Factored by |
 | --- | --- | --- | --- | --- | --- |
@@ -41,10 +41,10 @@ The following table gives an overview over all RSA numbers. Note that the RSA Fa
 |[RSA-140](https://en.wikipedia.org/wiki/RSA-140)| 140 | 463 | US$17,226 | February 2, 1999 | [Herman te Riele](https://en.wikipedia.org/wiki/Herman_te_Riele)|
 |[RSA-150](https://en.wikipedia.org/wiki/RSA-150)| 150 | 496 |	---     | April 16, 2004 | [Kazumaro Aoki](https://en.wikipedia.org/wiki/Kazumaro_Aoki)|
 |[RSA-155](https://en.wikipedia.org/wiki/RSA-155)| 155 | 512 | US$9,383 | August 22, 1999 | [Herman te Riele](https://en.wikipedia.org/wiki/Herman_te_Riele)|
-|[RSA-160](https://en.wikipedia.org/wiki/RSA-160 | 160 | 530 |	---     | April 1, 2003 | [Jens Franke](https://en.wikipedia.org/wiki/Jens_Franke)., [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn)|
-|[RSA-170](https://en.wikipedia.org/wiki/RSA-170 | 170 | 563 |  ---     | December 29, 2009 | D. Bonenberger and M. Krone|
-|[RSA-576](https://en.wikipedia.org/wiki/RSA-576 | 174 | 576 | US$10,000 | December 3, 2003 |[Jens Franke](https://en.wikipedia.org/wiki/Jens_Franke)., [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn)| 
-|[RSA-180](https://en.wikipedia.org/wiki/RSA-180 | 180 | 596 |  ---     | May 8, 2010 | S.A Danilov and I.A Popovyan, [Mosco State University](https://en.wikipedia.org/wiki/Moscow_State_University)|
+|[RSA-160](https://en.wikipedia.org/wiki/RSA-160)| 160 | 530 |	---     | April 1, 2003 | [Jens Franke](https://en.wikipedia.org/wiki/Jens_Franke)., [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn)|
+|[RSA-170](https://en.wikipedia.org/wiki/RSA-170)| 170 | 563 |  ---     | December 29, 2009 | D. Bonenberger and M. Krone|
+|[RSA-576](https://en.wikipedia.org/wiki/RSA-576)| 174 | 576 | US$10,000 | December 3, 2003 |[Jens Franke](https://en.wikipedia.org/wiki/Jens_Franke)., [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn)| 
+|[RSA-180](https://en.wikipedia.org/wiki/RSA-180)| 180 | 596 |  ---     | May 8, 2010 | S.A Danilov and I.A Popovyan, [Mosco State University](https://en.wikipedia.org/wiki/Moscow_State_University)|
  
 ## See also
 ## Background Context
