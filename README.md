@@ -2,7 +2,32 @@
 ## RSA Factoring Challenge
 From [Wikipedia](https://en.wikipedia.org/wiki/RSA_Factoring_Challenge)
 
-The ``RSA Factoring Challenge`` was a challenge put forward by [RSA Laboratories](https://en.wikipedia.org/wiki/RSA_Laboratories) on March 18, 1991 to encourage research into [computational number theory](https://en.wikipedia.org/wiki/Computational_number_theory) and the practical difficulty of [factoring](https://en.wikipedia.org/wiki/Factorization) large [integers](https://en.wikipedia.org/wiki/Integer) and cracking [RSA](https://en.wikipedia.org/wiki/RSA_(algorithm)) keys used in [cryptography](https://en.wikipedia.org/wiki/Cryptography).
+The ``RSA Factoring Challenge`` was a challenge put forward by [RSA Laboratories](https://en.wikipedia.org/wiki/RSA_Laboratories) on March 18, 1991 to encourage research into [computational number theory](https://en.wikipedia.org/wiki/Computational_number_theory) and the practical difficulty of [factoring](https://en.wikipedia.org/wiki/Factorization) large [integers](https://en.wikipedia.org/wiki/Integer) and cracking [RSA](https://en.wikipedia.org/wiki/RSA_(algorithm)) keys used in [cryptography](https://en.wikipedia.org/wiki/Cryptography). They published a list of [semiprimes](https://en.wikipedia.org/wiki/Semiprime) (numbers with exactly two [prime factors](https://en.wikipedia.org/wiki/Prime_factor) ) known as the [RSA numbers](https://en.wikipedia.org/wiki/RSA_numbers), with a cash prize for the successful factorization of some of them. The smallest of them, a 100-decimal digit number called [RSA-100](https://en.wikipedia.org/wiki/RSA-100) was factored by April 1, 1991. Many of the bigger numbers have still not been factored and are expected to remain unfactored for quite some time, however advances in [quantum computers](https://en.wikipedia.org/wiki/Quantum_computer) make this prediction uncertain due to [Shor's algorithm.](https://en.wikipedia.org/wiki/Shor%27s_algorithm)
+
+In 2001, RSA Laboratories expanded the factoring challenge and offered prizes ranging from $10,000 to $200,000 for factoring numbers from 576 bits up to 2048 bits.
+
+The RSA Factoring Challenges ended in 2007. RSA Laboratories stated: "Now that the industry has a considerably more advanced understanding of the cryptanalytic strength of common [symmetric-key](https://en.wikipedia.org/wiki/Symmetric_key_algorithm) and [public-key algorithms](https://en.wikipedia.org/wiki/Public_key_algorithm), these challenges are no longer active." When the challenge ended in 2007, only RSA-576 and RSA-640 had been factored from the 2001 challenge numbers.
+
+The factoring challenge was intended to track the cutting edge in integer factorization. A primary application is for choosing the [key length](https://en.wikipedia.org/wiki/Key_length) of the [RSA](https://en.wikipedia.org/wiki/RSA_(algorithm)) [public-key encryption](https://en.wikipedia.org/wiki/Public-key_encryption) scheme. Progress in this challenge should give an insight into which [key sizes](https://en.wikipedia.org/wiki/Key_size) are still safe and for how long. As RSA Laboratories is a provider of RSA-based products, the challenge was used by them as an incentive for the academic community to attack the core of their solutions — in order to prove its strength.
+
+The RSA numbers were generated on a computer with no network connection of any kind. The computer's hard drive was subsequently destroyed so that no record would exist, anywhere, of the solution to the factoring challenge.
+
+The first RSA numbers generated, RSA-100 to RSA-500 and RSA-617, were labeled according to their number of [decimal](https://en.wikipedia.org/wiki/Decimal) digits; the other RSA numbers (beginning with RSA-576) were generated later and labelled according to their number of [binary](https://en.wikipedia.org/wiki/Binary_numeral_system) digits. The numbers in the table below are listed in increasing order despite this shift from decimal to binary.
+
+### Content:
+- 1. [The mathematics]()
+- 2. [The prizes and records]()
+- 3. [See also]()
+
+## The mathematics
+RSA Laboratories states that: for each RSA number n, there exists prime numbers p and q such that:
+`` n = p x q``
+
+The problem is to find these two primes, given only n
+
+## The prizes and records
+
+## See also
 ## Background Context
 
 We have sniffed an unsecured network and found numbers that are used to encrypt very important documents. It seems that those numbers are not always generated using large enough prime numbers. Your mission should you choose to accept it, is to factorize these numbers as fast as possible before the target fixes this bug on their server - so that we can decode the encrypted documents.
