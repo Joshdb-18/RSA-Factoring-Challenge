@@ -72,12 +72,12 @@ sys 0m0.001s
 julien@ubuntu:~/factors$
 ```
 ### 1.RSA Factoring Challenge
-RSA Laboratories states that: for each RSA number n, there exist prime numbers p and q such that n = p x q. The problem is to find these two primes, given only n
+RSA Laboratories states that: for each RSA number ``n``, there exist prime numbers ``p`` and ``q`` such that ``n = p x q.`` The problem is to find these two primes, given only ``n``
 This task is the same as task 0, except:
 	- p and q are always prime numbers
 	- There is only one number in the files
 How far can you go in less than 5 seconds?
-	- Read: [RSA Factoring Challenge](https://alx-intranet.hbtn.io/rltoken/Cn9Lq_kKNpNx4dmvFMuwgQ)
+- Read: [RSA Factoring Challenge](https://alx-intranet.hbtn.io/rltoken/Cn9Lq_kKNpNx4dmvFMuwgQ)
 ```
 julien@ubuntu:~/RSA Factoring Challenge$ cat tests/rsa-1
 6
