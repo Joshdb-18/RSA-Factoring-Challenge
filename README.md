@@ -15,18 +15,22 @@ The RSA numbers were generated on a computer with no network connection of any k
 The first RSA numbers generated, RSA-100 to RSA-500 and RSA-617, were labeled according to their number of [decimal](https://en.wikipedia.org/wiki/Decimal) digits; the other RSA numbers (beginning with RSA-576) were generated later and labelled according to their number of [binary](https://en.wikipedia.org/wiki/Binary_numeral_system) digits. The numbers in the table below are listed in increasing order despite this shift from decimal to binary.
 
 ### Content:
-- 1. [The mathematics]()
-- 2. [The prizes and records]()
-- 3. [See also]()
+1. [The mathematics]()
+2. [The prizes and records]()
+3. [See also]()
 
 ## The mathematics
 RSA Laboratories states that: for each RSA number n, there exists prime numbers p and q such that:
+
 `` n = p x q``
 
 The problem is to find these two primes, given only n
 
 ## The prizes and records
+The following table gives an overview over all RSA numbers. Note that the RSA Factoring Challenge ended in 2007 and no further prizes will be awarded for factoring the higher numbers.
 
+	***The challenge numbers in black/white lines are part of the original challenge and are expressed in [base 10](https://en.wikipedia.org/wiki/Base_10), while the challenge numbers in yellow lines are part of the 2001 expansion and are expressed in [base 2](https://en.wikipedia.org/wiki/Base_2)***
+- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
 ## See also
 ## Background Context
 
