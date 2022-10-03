@@ -5,19 +5,20 @@ We have sniffed an unsecured network and found numbers that are used to encrypt 
 ## Resources
 ### Read or watch:
 ```
-	- [RSA](https://alx-intranet.hbtn.io/rltoken/VvijGiyWnPt8LDZjICgl1w)
-	- [How does HTTPS provide security?](https://alx-intranet.hbtn.io/rltoken/vNd9XWDEu1mgexyIGDMaXQ)
-	- [Prime Factorization](https://alx-intranet.hbtn.io/rltoken/kYixcru2uFRtLzb29NjiHg)
+- [RSA](https://alx-intranet.hbtn.io/rltoken/VvijGiyWnPt8LDZjICgl1w)
+- [How does HTTPS provide security?](https://alx-intranet.hbtn.io/rltoken/vNd9XWDEu1mgexyIGDMaXQ)
+- [Prime Factorization](https://alx-intranet.hbtn.io/rltoken/kYixcru2uFRtLzb29NjiHg)
 ```
 ## Requirements
 ### General
 ```
-	- You can choose the language of your choice
-	- OS needs to be Standard Ubuntu 20.04 LTS/
+- You can choose the language of your choice
+- OS needs to be Standard Ubuntu 20.04 LTS/
 ```
 ## Tasks
 ### 0. Factorize all the things
 Factorize as many numbers as possible into a product of two smaller numbers
+
 	- Usage: ``factors <file>``
 		- where ``<file>`` is a file containing natural numbers to factor
 		- One number per line
@@ -70,7 +71,7 @@ user    0m0.008s
 sys 0m0.001s
 julien@ubuntu:~/factors$
 ```
-### RSA Factoring Challenge
+### 1.RSA Factoring Challenge
 RSA Laboratories states that: for each RSA number n, there exist prime numbers p and q such that n = p x q. The problem is to find these two primes, given only n
 This task is the same as task 0, except:
 	- p and q are always prime numbers
