@@ -30,6 +30,10 @@ The problem is to find these two primes, given only n
 The following table gives an overview over all RSA numbers. Note that the RSA Factoring Challenge ended in 2007 and no further prizes will be awarded for factoring the higher numbers.
 
 - The challenge numbers in black/white lines are part of the original challenge and are expressed in [base 10](https://en.wikipedia.org/wiki/Base_10), while the challenge numbers in yellow lines are part of the 2001 expansion and are expressed in [base 2](https://en.wikipedia.org/wiki/Base_2)
+
+| RSA number | Decimal digits | Binary digits | Cash prize offered | Factored on | Factored by |
+| --- | --- | --- | --- | --- | --- |
+|[RSA-100](https://en.wikipedia.org/wiki/RSA-100)| 100 | 330 | US$1,000 | April, 1 1991 | [Arjen K. Lenstra](https://en.wikipedia.org/wiki/Arjen_K._Lenstra)
 ## See also
 ## Background Context
 
