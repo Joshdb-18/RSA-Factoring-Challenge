@@ -1,8 +1,0 @@
-[package]
-name = "rsa-rs"
-version = "0.1.0"
-authors = ["Joshua <joshuadami17@gmail.com>"]
-edition = "2022"
-
-[dependencies]
-ramp = "0.5"
